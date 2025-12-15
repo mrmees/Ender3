@@ -1,0 +1,4 @@
+.v-application .warning {
+  background-color: #2b00fb !important;
+  border-color: #0800fb !important;
+}
